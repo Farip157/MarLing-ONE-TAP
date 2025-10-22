@@ -46,7 +46,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/trojan"
+          "path": "/cdn"
         }
       },
       "sniffing": {
@@ -72,7 +72,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/vmess"
+          "path": "/cache"
         }
       },
       "sniffing": {
@@ -99,7 +99,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/vless"
+          "path": "/cht"
         }
       },
       "sniffing": {
